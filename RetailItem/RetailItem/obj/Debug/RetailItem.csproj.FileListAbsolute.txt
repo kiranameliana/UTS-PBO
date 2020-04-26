@@ -1,0 +1,12 @@
+c:\users\hp\documents\visual studio 2012\Projects\RetailItem\RetailItem\bin\Debug\RetailItem.exe.config
+c:\users\hp\documents\visual studio 2012\Projects\RetailItem\RetailItem\bin\Debug\RetailItem.exe
+c:\users\hp\documents\visual studio 2012\Projects\RetailItem\RetailItem\bin\Debug\RetailItem.pdb
+c:\users\hp\documents\visual studio 2012\Projects\RetailItem\RetailItem\obj\Debug\RetailItem.csprojResolveAssemblyReference.cache
+c:\users\hp\documents\visual studio 2012\Projects\RetailItem\RetailItem\obj\Debug\RetailItem.exe
+c:\users\hp\documents\visual studio 2012\Projects\RetailItem\RetailItem\obj\Debug\RetailItem.pdb
+C:\Users\HP\Documents\UTS PBO\RetailItem\RetailItem\bin\Debug\RetailItem.exe.config
+C:\Users\HP\Documents\UTS PBO\RetailItem\RetailItem\obj\Debug\RetailItem.exe
+C:\Users\HP\Documents\UTS PBO\RetailItem\RetailItem\obj\Debug\RetailItem.pdb
+C:\Users\HP\Documents\UTS PBO\RetailItem\RetailItem\bin\Debug\RetailItem.exe
+C:\Users\HP\Documents\UTS PBO\RetailItem\RetailItem\bin\Debug\RetailItem.pdb
+C:\Users\HP\Documents\UTS PBO\RetailItem\RetailItem\obj\Debug\RetailItem.csprojResolveAssemblyReference.cache
